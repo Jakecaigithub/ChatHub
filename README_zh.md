@@ -20,5 +20,5 @@ ChatHub的开发离不开每一个贡献者的努力，以下是部分开发人�
 ChatHub是基于MIT许可证开源的，该项目完全免费，用户可以自由地用于商业和非商业用途。详细的版权和许可声明请查看<code>LICENSE</code>文件。
 ## 联系我们
 如果您有任何问题或建议，欢迎通过以下途径联系我们：
-- 邮箱：[chathub@chathub.com](mailto:chathub@chathub.com)
+- 邮箱：[929168503@qq.com](mailto:chathub@chathub.com)
 - 微信公众号：ChatHub
