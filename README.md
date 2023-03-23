@@ -1,5 +1,8 @@
 # ChatHub
+[English](README.md) | [中文](README_zh.md) 
+
 ChatHub is an AI intelligent small application open platform that integrates ChatGPT and Wenxin Yiyi interface. The platform provides AI small application publishing, development tools, market, and AIPrompt ranking list and other functions, aiming to provide users with a complete AI small application ecosystem.
+
 ## Featured Functions
 ### AI Small Application Publishing Platform
 ChatHub provides an AI small application publishing platform where users can publish their own AI small applications and share them with other users. Users can manage their released AI applications through their accounts, edit and delete them, and so on.

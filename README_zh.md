@@ -1,4 +1,6 @@
 # ChatHub
+[English](README.md) | [中文](README_zh.md) 
+
 ChatHub是一个融合ChatGPT和文心一言接口的AI智能小应用开放平台。该平台提供了AI小应用发布、开发工具、市场和AIPrompt排行榜等功能，致力于为用户提供一个完整的AI小应用生态系统。
 ## 特色功能
 ### AI小应用发布平台
